@@ -1,5 +1,7 @@
 # PCAP Analyzer
 
+[Leer en Español](Readme_es.md)
+
 A network packet capture analyzer with a graphical user interface (GUI) built using **PyQt5**. Processes and analyzes PCAP/PCAPNG files to generate detailed CSV summaries, charts, and interactive HTML reports.
 
 ## Features
